@@ -224,6 +224,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <h3>Clean up</h3>
 <p>
 - Delete: C:\inetpub\wwwroot\osTicket\setup
+</p>
+</p>
 - Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 <br />
